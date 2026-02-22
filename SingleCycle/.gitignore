@@ -1,0 +1,23 @@
+# Icarus Verilog simulation outputs
+*.vvp
+*.out
+
+# Specific executables
+cpu_tb
+
+# Waveform representations
+*.vcd
+*.lxt
+*.lxt2
+*.fst
+
+# Make and build artifacts
+*.o
+*.obj
+
+# Editor and OS specifics
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.bak

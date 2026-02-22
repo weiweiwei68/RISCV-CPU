@@ -1,0 +1,5 @@
+00500093  // addi x1, x0, 5
+00500113  // addi x2, x0, 5
+00210463  // beq  x1, x2, +8
+00100193  // addi x3, x0, 1   (should be skipped)
+00900193  // addi x3, x0, 9   (should run)
