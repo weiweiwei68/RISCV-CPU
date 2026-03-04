@@ -3,7 +3,7 @@
 *.out
 
 # Specific executables
-cpu_tb
+build/
 
 # Waveform representations
 *.vcd
